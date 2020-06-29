@@ -1,5 +1,5 @@
 # Death-rate-Analysis
-Analysis of Death-rate of India and its neighbouring countries, it includes Bangladesh, Bhutan, China, Myanmar, Nepal, Pakistan, Indonesia, Thailand, Sri Lanka, Maldives. As I have data from 1960 to 2018, but here I am analysing data from 2008 - 2018.
+Analysis of Death-rate of India and its neighbouring countries, it includes Bangladesh, Bhutan, China, Myanmar, Nepal, Pakistan, Indonesia, Thailand, Sri Lanka, Maldives. I am analysing data from 1960-2018.
 
 Research Questions:
 1. Which Country has the least death rate and state its reason?
